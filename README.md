@@ -18,6 +18,10 @@ process, and for keeping AI agents inside policy when they act on systems of rec
   policy kept separate from application code.
 - **Conversational ERP prototype (2020)**: built before LLMs were widely available.
   [Demo](https://youtube.com/watch?v=f4cdx9-7EHo)
+- **[hud-enterprise-p2p](https://github.com/skkanthb/hud-enterprise-p2p)**:
+  an evaluation environment where AI agents handle procure-to-pay approvals on a
+  mock ERP, graded by OPA/Rego policies for approval limits, segregation of duties
+  and vendor holds.
 
 ## Writing
 
